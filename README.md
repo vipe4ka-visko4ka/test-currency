@@ -1,12 +1,14 @@
 ## How to start
 
 ```bash
-# Install dependencies
+# 1. Install dependencies
 $ npm install
 
-# Run database migrations
+# 2. Change database url in .env
+
+# 3. Run database migrations
 $ npx prisma migrate dev
 
-# Start
+# 4. Start
 $ npm run start
 ```
