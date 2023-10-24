@@ -1,0 +1,1292 @@
+exchange-offices
+  exchange-office
+    name = UKR Exchanger 1
+    country = UKR
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 6000
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 300
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = UKR Exchanger 2
+    country = UKR
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 4000
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 150
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = UKR Exchanger 3
+    country = UKR
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 4500
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 250
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = UKR Exchanger 4
+    country = UKR
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 7000
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 400
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = UKR Exchanger 5
+    country = UKR
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 2500
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 300
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = PL Exchanger 1
+    country = PL
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 6000
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 300
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = PL Exchanger 2
+    country = PL
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 4000
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 350
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = PL Exchanger 3
+    country = PL
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 4500
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 300
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = PL Exchanger 4
+    country = PL
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 7000
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 400
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = PL Exchanger 5
+    country = PL
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 2500
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 350
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = USA Exchanger 1
+    country = USA
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 6000
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 300
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = USA Exchanger 2
+    country = USA
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 4500
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 150
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = USA Exchanger 3
+    country = USA
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 4500
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 400
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = USA Exchanger 4
+    country = USA
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 7000
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 400
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = USA Exchanger 5
+    country = USA
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 2500
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 350
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = DE Exchanger 1
+    country = DE
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 5500
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 250
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = DE Exchanger 2
+    country = DE
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 3500
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 100
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = DE Exchanger 3
+    country = DE
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 4000
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 200
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = DE Exchanger 4
+    country = DE
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 7000
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 400
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = DE Exchanger 5
+    country = DE
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 2500
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 300
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = FR Exchanger 1
+    country = FR
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 2500
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 100
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = FR Exchanger 2
+    country = FR
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 3500
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 150
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = FR Exchanger 3
+    country = FR
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 4500
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 200
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = FR Exchanger 4
+    country = FR
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 5000
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 250
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+  exchange-office
+    name = FR Exchanger 5
+    country = FR
+    exchanges
+      exchange
+        from = EUR
+        to = UAH
+        ask = 2500
+        date = 2023-04-24 22:55:33
+      exchange
+        from = EUR
+        to = PLN
+        ask = 250
+        date = 2023-04-24 22:55:33
+    rates
+      rate
+        from = EUR
+        to = UAH
+        in = 1
+        out = 39
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = USD
+        in = 1
+        out = 1.06
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = EUR
+        to = PLN
+        in = 1
+        out = 5
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = UAH
+        to = USD
+        in = 36
+        out = 1
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+      rate
+        from = USD 
+        to = PLN
+        in = 1
+        out = 4.20
+        reserve = 120000
+        date = 2023-04-24 22:55:33
+
+countries
+  country
+    code = UKR
+    name = Ukraine
+  country
+    code = PL
+    name = Poland
+  country
+    code = USA
+    name = United States
+  country
+    code = DE
+    name = Germany
+  country
+    code = FR
+    name = France
