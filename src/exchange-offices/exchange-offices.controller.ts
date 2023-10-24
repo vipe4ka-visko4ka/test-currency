@@ -1,5 +1,6 @@
 import {
   Controller,
+  Get,
   HttpCode,
   Post,
   UploadedFile,
@@ -24,5 +25,10 @@ export class ExchangeOfficesController {
     await this.exchangeOfficesService.uploadOfficesFromFile(
       file.buffer.toString(),
     );
+  }
+
+  @Get('top')
+  public getTopOfficesByTopCountries() {
+    return this.exchangeOfficesService.getTopOfficesByTopCountries();
   }
 }

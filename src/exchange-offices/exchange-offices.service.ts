@@ -1,8 +1,10 @@
 import { Injectable } from '@nestjs/common';
 import { Prisma } from '@prisma/client';
+import * as _ from 'lodash';
 
 import { PrismaService } from '../prisma/prisma.service';
 import { FileParserService } from '../file-parser/file-parser.service';
+import { topOfficesByTopCountriesQuery } from './exchange-offices.query';
 
 @Injectable()
 export class ExchangeOfficesService {
@@ -58,5 +60,25 @@ export class ExchangeOfficesService {
         });
       }),
     );
+  }
+
+  public async getTopOfficesByTopCountries() {
+    const queryResult = await this.prismaService.$queryRaw<any[]>(
+      topOfficesByTopCountriesQuery,
+    );
+
+    const groupedByCountry = _.groupBy(queryResult, 'country_name');
+
+    const formatted = Object.entries(groupedByCountry).map(([key, value]) => {
+      const countryProfit = value[0].country_profit;
+
+      return {
+        countryName: key,
+        countryProfit,
+        topExchangeOffices: value,
+      };
+    });
+
+    return formatted;
   }
 }
